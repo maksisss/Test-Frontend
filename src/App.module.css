@@ -1,0 +1,16 @@
+@font-face {
+  font-family: 'Rubik';
+  font-style: normal;
+  src: url("Rubik.ttf");
+}
+
+body {
+  font-family: 'Rubik';
+  font-style: normal;
+  margin: 0;
+}
+
+.Nav,
+.Main1 {
+  float: left;
+}

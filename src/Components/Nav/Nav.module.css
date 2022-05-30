@@ -1,0 +1,94 @@
+.Nav {
+  font-size: 16px;
+  position: fixed;
+  width: 190px;
+  height: 100%;
+  left: 0px;
+  top: 0px;
+  background: #003B72;
+  color: white;
+}
+
+.Logo {
+  height: 51px;
+}
+
+.ListNav img {
+  width: 20px;
+  height: 20px;
+}
+
+.TDNone {
+  text-decoration: none;
+  color: white;
+}
+
+.Profile img,
+.Doctors img,
+.Massage img,
+.Test img,
+.Useful img,
+.Help img {
+  position: absolute;
+  margin-top: 17px;
+  left: 20px;
+}
+
+.Profile2 {
+  position: absolute;
+  left: 50px;
+  color: #7761FF;
+}
+
+#OvList.PorfileOver {
+  background-color: white;
+  height: 57px;
+  border-left: 5px solid #7761FF;
+}
+
+#OvList {
+  padding: 4px;
+}
+
+.Doctors2,
+.Massage2,
+.Useful2,
+.Test2 {
+  position: absolute;
+  left: 50px;
+}
+
+.DoctorsOver,
+.MassageOver,
+.TestOver,
+.UsefulOver {
+  height: 57px;
+}
+
+.Send {
+  margin-top: 10px;
+  position: absolute;
+  left: 20px;
+  background-color: #7761FF;
+  padding: 15px;
+  border-radius: 5px;
+}
+
+.Help img {
+  position: absolute;
+  bottom: 60px;
+}
+
+.Help2 {
+  position: absolute;
+  left: 50px;
+  bottom: 45px;
+}
+
+.Appvelox img {
+  position: absolute;
+  bottom: 20px;
+  left: 14px;
+  width: 113px;
+  height: 20;
+}

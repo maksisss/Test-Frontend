@@ -1,0 +1,83 @@
+.quest {
+    float: left;
+    margin: 70px 20px 20px 20px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 5px #EBE7FF;
+    background-color: white;
+    width: 550px;
+    height: 200px;
+}
+
+.Data {
+    margin: 20px 20px 0px 20px;
+    font-size: 18px;
+}
+
+.Address {
+    margin: 10px 20px 0px 20px;
+    font-size: 14px;
+}
+
+.Persona {
+    margin: 10px 20px 0px 20px;
+}
+
+.E3 {
+    box-sizing: border-box;
+    width: 60px;
+    height: 60px;
+    border: 1px solid #FFFFFF;
+    border-radius: 50%;
+    overflow: hidden;
+}
+
+div.AvaQ img {
+    width: 60px;
+    height: 60px;
+}
+
+.DocName#DCN1 {
+    position: absolute;
+    top: 180px;
+    left: 110px;
+}
+
+.DocName#DCN2 {
+    position: absolute;
+    top: 180px;
+    left: 700px;
+}
+
+.DocProf#DCP1 {
+    position: absolute;
+    top: 200px;
+    left: 110px;
+    color: #EBE7FF;
+}
+
+.DocProf#DCP2 {
+    position: absolute;
+    top: 200px;
+    left: 700px;
+    color: #EBE7FF;
+}
+
+.Cancel#C1 {
+    position: absolute;
+    right: 640px;
+    top: 200px;
+    background-color: #7761FF;
+    padding: 12px;
+    border-radius: 5px;
+    color: white;
+}
+
+.Cancel#C2 {
+    position: absolute;
+    right: 50px;
+    top: 200px;
+    background-color: #7761FF;
+    padding: 12px;
+    border-radius: 5px;
+    color: white;
+}

@@ -1,0 +1,104 @@
+.Main2 {
+  position: absolute;
+  left: 190px;
+  top: 355px;
+}
+
+.ECard {
+  position: relative;
+  top: 20px;
+  left: 50px;
+  margin-bottom: 25px;
+  font-size: 20px;
+}
+
+#ECard {
+  position: absolute;
+  margin: 20px 20px 20px 20px;
+  background-color: #FFFFFF;
+  box-shadow: 0px 0px 5px #e6e3f3;
+  border-radius: 5px;
+  border: 2px solid #ffffff;
+  width: 620px;
+  height: 194px;
+}
+
+.InfoPatient#ECard {
+  border: 2px solid #50CAFF;
+}
+
+#DivImg {
+  width: 70px;
+  height: 70px;
+  padding-left: 7%;
+  padding-right: 5%;
+  padding-top: 10%;
+  padding-bottom: 10%;
+  background-color: white;
+}
+
+.DivImg1#DivImg {
+  background-color: #50CAFF;
+}
+
+#TXT {
+  font-size: 30px;
+}
+
+.InfoPatientText,
+.AnalysisResultsText,
+.AddInfoText,
+.RecStoryText {
+  position: absolute;
+  margin: 20px 20px 20px 20px;
+  top: 0px;
+  left: 180px;
+}
+
+.InfoPatientList {
+  position: absolute;
+  top: 60px;
+  left: 180px;
+  color: #50CAFF;
+}
+
+.InfoPatientList li {
+  margin-bottom: 1em;
+}
+
+.InfoPatientList li span {
+  color: black;
+}
+
+#HR1 {
+  border: 1px solid #50CAFF;
+}
+
+hr {
+  width: 380px;
+  border: 1px solid #EBE7FF;
+  position: absolute;
+  top: 50px;
+  left: 200px;
+}
+
+.AnalysisResults {
+  left: 640px;
+}
+
+.AnalysisResultsContent,
+.RecStoryContent,
+.AddInfoContent {
+  position: absolute;
+  top: 90px;
+  left: 200px;
+}
+
+.AddInfo {
+  top: 265px;
+}
+
+.RecStory {
+  top: 265px;
+  left: 640px;
+}
